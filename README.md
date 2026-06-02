@@ -1,3 +1,6 @@
+Nama : Hafiz al farizi
+Nim : 251101014
+kelas : TI2B
 # HMSI - Sistem Informasi Pendaftaran & Manajemen Anggota
 
 Sistem informasi untuk Himpunan Mahasiswa Sistem Informasi dengan fitur pendaftaran anggota dan dashboard admin.
